@@ -1,0 +1,2 @@
+--valor igual mayor o igual que uno de la duración del contrato y la fecha de comienzo del contrato
+--triger instead of que evalué si un nuevo contrato tiene fecha posterior a uno ya firmado por un mismo ciclista
